@@ -10,7 +10,10 @@
 
 ###
 
-<p align="left">Komunitas ramah dan berkembang, tempat belajar dan berbagi ilmu. Bergabunglah dengan ribuan pengembang dari Community, saling bertukar ide, dan berkembang bersama.</p>
+<p align="left">Komunitas yang ramah dan terus berkembang, menjadi tempat terbaik untuk belajar, berbagi ilmu, serta membangun koneksi yang bermakna. Di sini, setiap anggota saling mendukung, bertukar pengalaman, dan tumbuh bersama dalam suasana yang positif dan kolaboratif.
+</p>
+
+<p align="left">Bergabunglah dengan ribuan pengembang dari berbagai latar belakang di Community. Diskusikan ide-ide kreatif, pecahkan tantangan bersama, dan kembangkan keterampilanmu melalui sharing session, mentoring, serta kolaborasi proyek nyata. </p>
 
 <div align="left">
   <a href="https://www.youtube.com/@octarycommunity" target="_blank">
