@@ -23,12 +23,6 @@
 
 <p align="left">Komunitas ramah dan berkembang, tempat belajar dan berbagi ilmu. Bergabunglah dengan ribuan pengembang dari Community, saling bertukar ide, dan berkembang bersama.</p>
 
-###
-
-<h3 align="left">🔥   Community Stats</h3>
-
-###
-
 
 <img src="https://raw.githubusercontent.com/octary-community/octary-community/output/snake.svg" alt="Snake animation" />
 
